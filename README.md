@@ -27,7 +27,7 @@ Inicice http-server localmente
  node bin/http-server
 Agora visite http://localhost:8080 para ver seu server
 
-Opições
+Opções
 ======================================================================
 -p Port to use (defaults to 8080)
 
